@@ -6,6 +6,6 @@
         <RootNamespace>org.app</RootNamespace>
     </PropertyGroup>
     <ItemGroup>
-     <PackageReference Include="HtmlSanitizer" Version="4.0.217" />
+     <PackageReference Include="HtmlSanitizer" Version="5.0.372" />
     </ItemGroup>
 </Project>
